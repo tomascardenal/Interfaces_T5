@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T5_Ejercicio1", "T5_Ejercicio1\T5_Ejercicio1.csproj", "{E8E1B44B-E47E-406D-B20C-9947C7C19D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallTester", "BallTester\BallTester.csproj", "{5998D48D-D747-4E08-BAC2-E13116139E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T5_Ejercicio2", "T5_Ejercicio2\T5_Ejercicio2.csproj", "{DAD356BD-FB9B-4986-87C2-A511C9E53227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T5_Ejercicio3", "T5_Ejercicio3\T5_Ejercicio3.csproj", "{AEC2F96B-FFD2-464B-A201-FB731A85150C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E1B44B-E47E-406D-B20C-9947C7C19D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E1B44B-E47E-406D-B20C-9947C7C19D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E1B44B-E47E-406D-B20C-9947C7C19D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E1B44B-E47E-406D-B20C-9947C7C19D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5998D48D-D747-4E08-BAC2-E13116139E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5998D48D-D747-4E08-BAC2-E13116139E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5998D48D-D747-4E08-BAC2-E13116139E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5998D48D-D747-4E08-BAC2-E13116139E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD356BD-FB9B-4986-87C2-A511C9E53227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD356BD-FB9B-4986-87C2-A511C9E53227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD356BD-FB9B-4986-87C2-A511C9E53227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD356BD-FB9B-4986-87C2-A511C9E53227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC2F96B-FFD2-464B-A201-FB731A85150C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC2F96B-FFD2-464B-A201-FB731A85150C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC2F96B-FFD2-464B-A201-FB731A85150C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC2F96B-FFD2-464B-A201-FB731A85150C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3301C4-CE97-40C5-8E2C-51EAB8461242}
+	EndGlobalSection
+EndGlobal
